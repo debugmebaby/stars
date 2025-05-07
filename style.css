@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url(img/starry.jpg);
+    background-image: url(img/view-fantastic-starry-sky-sea-ocean-night-looking-amazing_665346-39113.avif);
     background-attachment: fixed; 
     background-size: cover;
     background-position: center;
@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-    background: rgba(0, 0, 0, 0.3); 
+    background: rgba(0, 0, 0, 0.1); 
     padding: 2rem;
     border-radius: 15px;
     max-width: 600px;
